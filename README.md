@@ -19,7 +19,7 @@
   
  ## Links
  
-  * Application URL: (https://Fjimenez51.github.io/Good-Readme-Generator/)
+  * Application URL: (https://fjimenez51.github.io/Good-Readme-Generator/)
   * Github Repository URL: (https://github.com/Fjimenez51/Good-Readme-Generator)
 ## License
   [![apache-2.0](https://img.shields.io/badge/license-apache--2.0-green?style=plastic)](https://www.apache.org/licenses/LICENSE-2.0)
