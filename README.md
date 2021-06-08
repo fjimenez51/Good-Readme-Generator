@@ -25,6 +25,7 @@ When code has been opened in code editor, you will need to run node index.js in 
 ## License
   [![apache-2.0](https://img.shields.io/badge/license-apache--2.0-green?style=plastic)](https://www.apache.org/licenses/LICENSE-2.0)
 ## Contributions
+With contributions from https://github.com/pat31477
   
 ## Tests
   
